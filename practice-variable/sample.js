@@ -1,9 +1,3 @@
-var str = "webcamp"
-
-function foo(){
-  console.log(str)
-  var str = "dmm webcamp"
-  console.log(str)
+for(leti=0:i<10;i++){
+  console.log(i);
 }
-
-foo()
