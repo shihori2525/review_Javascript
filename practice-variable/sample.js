@@ -1,3 +1,9 @@
-for(leti=0:i<10;i++){
-  console.log(i);
+let alertString;
+alertString = addString("WebCamp");
+
+alert(alertString);
+
+function addString(strA){
+  let addStr = "Hello" + strA
+  return addStr;
 }
