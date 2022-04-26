@@ -5,7 +5,7 @@ $(".theTarget").skippr({
   navType :'block',
   childrenElementType :'div',
   arrows :true,
-  autPlay :false,
+  autoPlay :true,
   autoPlayDuration :5000,
   keyboardOnAlways :true,
   hidePrevious :false
