@@ -1,4 +1,4 @@
-$(".the Target").skippr({
+$(".theTarget").skippr({
   transition :'fade',
   speed :100,
   easing :'easeOutQuart',
